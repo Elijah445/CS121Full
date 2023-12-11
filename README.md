@@ -13,7 +13,7 @@
 Contact me if you have any information you would like to share with me! www.linkedin.com/in/elijah-webb-0b1072293
   </p>
 
-  <h3 align = "left"> Language and Tools: </h3>
+  <h3 align = "left"> Languages and Tools: </h3>
   <p align = "left"> 
     <a href= "https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" target="blank" rel ="noreferrer">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" alt = "intellij"width ="40" height="40"/></a><a href= "https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" target="blank" rel ="noreferrer">
