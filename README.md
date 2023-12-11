@@ -10,12 +10,11 @@
 Contact me if you have any information you would like to share with me! www.linkedin.com/in/elijah-webb-0b1072293
   </p>
 
+  <h3 align = "center">More code!</h3>
+  
   | Number | Item | Description|
   |:----: | ------| ----------|
   |
 
- <h3 align = "center">Get in touch with me</h3>
-  <p align = "left">
-Contact me if you have any information you would like to share with me! www.linkedin.com/in/elijah-webb-0b1072293
-  </p>
+
   
