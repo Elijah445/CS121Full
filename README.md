@@ -10,4 +10,8 @@
 Contact me if you have any information you would like to share with me!
   </p>
 
+  | Number | Item | Description|
+  |:----: | ------| ----------|
+  |
+
   
