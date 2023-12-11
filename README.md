@@ -7,7 +7,7 @@
 
   <h3 align = "center">Get in touch with me</h3>
   <p align = "left">
-Contact me if you have any information you would like to share with me!
+https://www.linkedin.com/in/elijah-webb-0b1072293/ Contact me if you have any information you would like to share with me!
   </p>
 
   | Number | Item | Description|
