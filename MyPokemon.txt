@@ -1,0 +1,5 @@
+Pokemon Type Hp
+Charizard Fire 250
+Pikachu Electric 90
+Greninja Water 150
+Bulbasaur Water 300
