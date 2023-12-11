@@ -8,7 +8,7 @@
 - This was a pretty cool game I made at the beginning of the semester [Guessing Game](https://github.com/Elijah445/CS121Full/blob/4fa301ca8232317533e91b026fd1c0f362446ee6/src/weekFour/GuessingGame2.java)
 - This is my most recent project [ProjectTwo Package](https://github.com/Elijah445/CS121Full/tree/c84cf1c7cceedfd990ff878deb8501d947aea351/src/projectTwo)
 
-  <h3 align = "center">Get in touch with me</h3>
+  <h3 align = "center">Get in touch with me💻</h3>
   <p align = "left">
 Contact me if you have any information you would like to share with me! www.linkedin.com/in/elijah-webb-0b1072293
   </p>
